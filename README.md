@@ -10,7 +10,7 @@ Reimplementation of jquery Thailand in pure React focus on highly customizable r
 ## Feature
 - ✅ Customizable layout
 - ✅ Fully customizable CSS
-- ✅ Custom datasource option (See [Storybook Custom Option](https://rungsikorn.rocks/react-thailand-address-typeahead#custom-datasource-usage))
+- ✅ Custom datasource option (See [Storybook Custom Option](https://rungsikorn.rocks/react-thailand-address-typeahead/v2#custom-datasource-usage))
 - ✅ Keyboard navigation support
 - 🚧 datasource compression
 - 🚧 Lazy Loading address datasource
@@ -18,7 +18,7 @@ Reimplementation of jquery Thailand in pure React focus on highly customizable r
 - ️🚧 Form validation support
 
 ## Demo
-[Example with storybook](https://rungsikorn.rocks/react-thailand-address-typeahead/)
+[Example with storybook](https://rungsikorn.rocks/react-thailand-address-typeahead/v2)
 
 ## Installation
 ```
@@ -30,7 +30,7 @@ $ yarn add react react-dom react-thailand-address-typeahead
 ```
 
 ## Usage
-see storybook link here https://zapkub.github.io/react-thailand-address-v2
+see storybook link here https://rungsikorn.rocks/react-thailand-address-typeahead/v2
 
 ```tsx
 import React from 'react'
