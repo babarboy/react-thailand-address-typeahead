@@ -22,11 +22,11 @@ Reimplementation of jquery Thailand in pure React focus on highly customizable r
 
 ## Installation
 ```
-$ npm install react react-dom react-thailand-address-typeahead
+$ npm install react react-dom react-thailand-address-typeahead-babarboy
 ```
 or
 ```
-$ yarn add react react-dom react-thailand-address-typeahead
+$ yarn add react react-dom react-thailand-address-typeahead-babarboy
 ```
 
 ## Usage
