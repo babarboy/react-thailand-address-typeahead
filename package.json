@@ -1,13 +1,13 @@
 {
-  "name": "react-thailand-address-typeahead",
+  "name": "react-thailand-address-typeahead-babarboy",
   "version": "2.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
-    "url": "git@github.com:zapkub/react-thailand-address-typeahead.git",
+    "url": "git@github.com:babarboy/react-thailand-address-typeahead.git",
     "type": "git"
   },
-  "author": "Rungsikorn Rungsikavarnich <rungsikorn@me.com>",
+  "author": "Babarboy",
   "license": "MIT",
   "dependencies": {},
   "scripts": {

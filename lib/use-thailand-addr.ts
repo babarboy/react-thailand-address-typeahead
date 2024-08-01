@@ -47,7 +47,7 @@ export const extractDatasource = (cds: CompressedDatasource): DatasourceItem[] =
   return ds;
 };
 
-export const searchDatasourceByField = (ds: DatasourceItem[], field: "po" | "p" | "d" | "s", input: string, max = 10) => {
+export const searchDatasourceByField = (ds: DatasourceItem[], field: "po" | "p" | "d" | "s", input: string, max = 20) => {
   const result: DatasourceItem[] = [];
   for (const item of ds) {
     if (item[field].toLowerCase().includes(input.toLocaleLowerCase())) {

@@ -104,6 +104,6 @@ export default App;
 ## Original fork and idea 
 
 [earthchie](https://github.com/earthchie/) - Project Owner, Original fork
-(you should treat him a beer 😎🍺)
+(you should treat him water 😎)
 ## License
 MIT
